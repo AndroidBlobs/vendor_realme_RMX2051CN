@@ -1,0 +1,6 @@
+#
+# ADDITIONAL VENDOR EUCLID PROPERTIES
+#
+ro.oppo.text.porp=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
